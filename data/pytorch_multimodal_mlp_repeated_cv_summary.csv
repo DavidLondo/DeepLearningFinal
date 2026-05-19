@@ -1,0 +1,2 @@
+feature_set,model,balanced_accuracy_mean,balanced_accuracy_std,f1_mean,f1_std,roc_auc_mean,roc_auc_std,average_precision_mean,average_precision_std,precision_mean,precision_std,recall_mean,recall_std
+multimodal,pytorch_multimodal_mlp,0.7164242424242424,0.1042959298043067,0.7569720648226503,0.09542288470701106,0.8123636363636364,0.08646386138352818,0.9153189002520553,0.04590848459287147,0.8682461427461428,0.09086174631679819,0.6881818181818181,0.14289288546697493
