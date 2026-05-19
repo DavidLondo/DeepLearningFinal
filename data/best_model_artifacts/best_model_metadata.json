@@ -1,0 +1,7 @@
+{
+    "feature_set": "multimodal",
+    "model": "svm_rbf",
+    "selection_metric": "roc_auc_mean",
+    "selection_metric_value": 0.8787272727272728,
+    "n_features": 70
+}
