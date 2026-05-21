@@ -302,14 +302,15 @@ Finalmente, el proyecto confirma el valor de la multimodalidad y del análisis a
 
 # 10. Referencias
 
-## Papers
+## Modelos
 
-* [Referencia 1]
-* [Referencia 2]
+* Jocher, G., Qiu, J., & Chaurasia, A. (2023). Ultralytics YOLO [Software]. Ultralytics. Version 8.0.0.
+* Zhang, Y. et al. (2021/2022). ByteTrack: Multi-Object Tracking by Associating Every Detection Box.
+* 
 
 
 ## Dataset
 
-* [Fuente del dataset]
+* Thambawita, V., Hicks, S. A., Storås, A. M., Nguyen, T., Andersen, J. M., Witczak, O., Haugen, T. B., Hammer, H. L., Halvorsen, P., & Riegler, M. A. (2023). VISEM-Tracking, a human spermatozoa tracking dataset. Scientific Data, 10, 260. https://doi.org/10.1038/s41597-023-02173-4
 
 ---
