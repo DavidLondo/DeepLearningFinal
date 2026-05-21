@@ -9,7 +9,7 @@
 | Integrantes | Daniel Santana, Felipe Castro, David Londoño |
 | Profesor    | Raúl Castañeda |
 | Fecha       | 20/5/2026   |
-| Documento Informe Final | [INFORME_PROYECTO - Equipo #2](https://eafit-my.sharepoint.com/:w:/g/personal/fcastroj_eafit_edu_co/IQCR-T3MXNFiQZAx5kVxJkEyAReg6gaLD8AKizWf2Uksvzg?e=fhDydG) | 
+| Documento Informe Final | [INFORME_PROYECTO - Equipo #2](https://eafit-my.sharepoint.com/:b:/g/personal/fcastroj_eafit_edu_co/IQAIK8POVQGmSLhVXKoQgNZMAd3TBKSSc83l4Iw88ILWXIM?e=bFl9mu) | 
 
 ---
 
